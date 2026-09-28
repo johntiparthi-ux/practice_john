@@ -1,0 +1,6 @@
+{
+  "project_id": "project",
+  "dataset": "dataset",
+  "source_bucket": "gs://example-landing",
+  "environment": "dev"
+}
